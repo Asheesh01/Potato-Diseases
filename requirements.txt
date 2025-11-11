@@ -10,3 +10,4 @@ scikit-learn
 Pillow
 opencv-python
 gdown
+streamlit-lottie
