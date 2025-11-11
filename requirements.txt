@@ -8,3 +8,5 @@ gtts
 deep-translator
 scikit-learn
 Pillow
+opencv-python
+gdown
