@@ -1,0 +1,24 @@
+# Virtual environment
+potato-env/
+
+# Model files
+*.h5
+*.keras
+*.pkl
+
+# Dataset folders
+Dataset/
+data/
+history_images/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.log
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
