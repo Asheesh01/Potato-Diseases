@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+gtts
+deep-translator
+scikit-learn
+Pillow
